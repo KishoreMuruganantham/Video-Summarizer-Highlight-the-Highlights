@@ -28,7 +28,7 @@ Whether you're a **content creator**, **researcher**, or just someone with too m
 1. **Clone this repo**:
 
    ```bash
-   git clone https://github.com/KishoreMuruganantham/Video_Summarizer.git
+   git clone https://github.com/KishoreMuruganantham/Video-Summarizer-Highlight-the-Highlights.git
    cd Video_Summarizer
    ```
 
